@@ -1,0 +1,116 @@
+[1] "We run the model with N=" "500"                      " "                       
+[1] "MLE Model M2"
+         mu1          mu2         sig1         sig2          rho 
+0.0006877703 0.0003970184 0.0114350050 0.0094990432 0.6949465166 
+[1] "Gumbel Copula Model M3"
+[1] "theta:"           "1.74325447455922" " "               
+[1] "MLE model 4"
+       df1      df2       df rhoStudents
+1 17.74195 24.99676 13.41035   0.6665108
+[1] "Risk measures Model M1"
+[1] "Value at risk"
+      10%        5%        1% 
+ 83624.85 114636.94 185697.30 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 127727.6 158023.6 223071.7
+[1] "Risk measures Model M2"
+[1] "Value at risk"
+     10%       5%       1% 
+ 96740.9 124873.7 181933.3 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 134326.4 159125.4 208846.9
+[1] "Risk measures Model M4"
+[1] "Value at risk"
+     10%       5%       1% 
+102219.9 136802.3 207654.0 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 148679.1 179159.9 244623.5
+[1] "We run the model with N=" "100"                      " "                       
+[1] "MLE Model M2"
+         mu1          mu2         sig1         sig2          rho 
+0.0006643442 0.0012496906 0.0087422457 0.0059983840 0.5441327942 
+[1] "MLE model 4"
+       df1    df2       df rhoStudents
+1 19.99916 94.334 17.99022   0.4174252
+[1] "Risk measures Model M1"
+[1] "Value at risk"
+      10%        5%        1% 
+ 47414.33  71165.77 106070.53 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 76232.44 94443.65 125262.1
+[1] "Risk measures Model M2"
+[1] "Value at risk"
+      10%        5%        1% 
+ 62497.00  85514.35 124496.51 
+[1] "Espected shortfalls"
+       90%      95%    99%
+1 91692.86 110668.7 145615
+[1] "Risk measures Model M4"
+[1] "Value at risk"
+      10%        5%        1% 
+ 64335.06  87417.76 142549.88 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 98112.54 121854.1 170391.5
+[1] "We run the model with N=" "200"                      " "                       
+[1] "MLE Model M2"
+         mu1          mu2         sig1         sig2          rho 
+0.0006116973 0.0010176236 0.0092299172 0.0059367339 0.5208365097 
+[1] "MLE model 4"
+       df1      df2       df rhoStudents
+1 32.40433 115.7108 30.73657   0.3717748
+[1] "Risk measures Model M1"
+[1] "Value at risk"
+      10%        5%        1% 
+ 50361.00  68676.23 104135.44 
+[1] "Espected shortfalls"
+       90%      95%    99%
+1 74542.11 90141.89 119083
+[1] "Risk measures Model M2"
+[1] "Value at risk"
+      10%        5%        1% 
+ 66064.49  91075.56 141023.14 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 98732.95 120426.3 163858.2
+[1] "Risk measures Model M4"
+[1] "Value at risk"
+      10%        5%        1% 
+ 69101.95  93641.74 143357.62 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 102196.1 124393.9 168154.6
+[1] "We run the model with N=" "1000"                     " "                       
+[1] "MLE Model M2"
+         mu1          mu2         sig1         sig2          rho 
+0.0005429321 0.0005938150 0.0105374385 0.0097107589 0.7523851901 
+[1] "MLE model 4"
+       df1     df2       df rhoStudents
+1 15.95965 20.9625 11.71746   0.7432174
+[1] "Risk measures Model M1"
+[1] "Value at risk"
+      10%        5%        1% 
+ 83056.33 115326.05 185717.77 
+[1] "Espected shortfalls"
+       90%      95%    99%
+1 128834.3 159465.8 225015
+[1] "Risk measures Model M2"
+[1] "Value at risk"
+      10%        5%        1% 
+ 90053.33 119264.54 173028.92 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 128444.1 152607.9 203966.8
+[1] "Risk measures Model M4"
+[1] "Value at risk"
+      10%        5%        1% 
+ 96705.72 130619.86 201276.23 
+[1] "Espected shortfalls"
+       90%      95%      99%
+1 143099.4 174341.3 237320.4
+  % violations M2 % violations M4
+1      0.06844741      0.05776294
